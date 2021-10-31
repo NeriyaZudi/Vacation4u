@@ -13,19 +13,20 @@
  
  & Avital Mahgerefte | <img src="https://img.shields.io/badge/Avital-Programmer-blue" alt="Avital" >
  
- & Sergey Pechyoni | <img src="https://img.shields.io/badge/Sergey-Programmer-green" alt="Sergey" >****
+ & Sergey Pechyoni | <img src="https://img.shields.io/badge/Sergey-Programmer-green" alt="Sergey" >
  
 
      
      Group Project as part of a basic course in software engineering.
      The project simulates a software product To manage a travel agency.
      
+   You can connect to the system in the following options:
    <hr>
     
-   You can connect to the system in the following options:
-        * **Manager (Agent Management, Statistics Tracking, Profits)**
-        * ** Agent (adding and removing packages, updating information, responding to customers)**
-        * **Customer (search and purchase packages, contact an agent, track orders)**
+   * **Manager (Agent Management, Statistics Tracking, Profits)**
+   * ** Agent (adding and removing packages, updating information, responding to customers)**
+   * **Customer (search and purchase packages, contact an agent, track orders)**
+   
    The system works with existing databases (txt files)
      
  <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
