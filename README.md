@@ -21,6 +21,11 @@
      Group Project as part of a basic course in software engineering.
      The project simulates a software product To manage a travel agency.
      
+   
+   <h3> Introduction </h3>
+   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/Introduction.png" align="center"
+     alt="logo" width="600" height="400">
+     
    You can connect to the system in the following options:
    <hr>
     
@@ -29,10 +34,6 @@
    * **Customer (search and purchase packages, contact an agent, track orders)**
    
    The system works with existing databases (txt files)
-   
-   <h3> Introduction </h3>
-  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/Introduction.png" align="center"
-     alt="logo" width="600" height="400">
  
  
  
