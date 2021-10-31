@@ -52,13 +52,13 @@
      alt="home" width="200" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/packeges.png" align="center"
      alt="pack" width="200" height="200">
-  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/log%20in.png" align="center"
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/log%20in.png" align="right"
      alt="log" width="200" height="200">
-  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/agent.png" align="center"
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/agent.png" align="left"
      alt="agent" width="200" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/customer.png" align="center"
      alt="customer" width="200" height="200">
-  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/orders.png" align="center"
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/orders.png" align="right"
      alt="orders" width="200" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/message.png" align="center"
      alt="message" width="200" height="200">
