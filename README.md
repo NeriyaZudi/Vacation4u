@@ -48,5 +48,6 @@
    * **Reading and writing files**
   
 
+ **<a href="https://drive.google.com/file/d/1uezGiRTfSkxYAz5DJp6ZFm4gYLEt2u0W/view?usp=sharing">Project presentation video</a>** <img src="https://previews.123rf.com/images/get4net/get4net1711/get4net171100357/89002118-video-clip-icon.jpg" align="right"
+     alt="video" width="120" height="68">
 
-Project presentation video -> https://drive.google.com/file/d/1uezGiRTfSkxYAz5DJp6ZFm4gYLEt2u0W/view?usp=sharing
