@@ -25,11 +25,17 @@
    <hr>
     
    * **Manager (Agent Management, Statistics Tracking, Profits)**
-   * ** Agent (adding and removing packages, updating information, responding to customers)**
+   * **Agent (adding and removing packages, updating information, responding to customers)**
    * **Customer (search and purchase packages, contact an agent, track orders)**
    
    The system works with existing databases (txt files)
-     
+   
+   <h3> Introduction </h3>
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/Introduction.png" align="center"
+     alt="logo" width="600" height="400">
+ 
+ 
+ 
  <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
      alt="SCE logo" width="320" height="98">
   <hr>
