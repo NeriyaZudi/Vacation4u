@@ -1,6 +1,6 @@
 # Vacation4u | <img src="https://img.shields.io/badge/Version-1.1-green" alt="Version" > |   <img src="https://img.shields.io/badge/Downloads-20-lightgreen" alt="dowm" >
 
-<img src="https://github.com/NeriyaZudi/Numerical-analysis-python/blob/main/numerical%20anlysis.jpg" align="center"
+<img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/background.jpg" align="center"
      alt="logo" width="600" height="400">
      
  By: Neriya Zudi | <img src="https://img.shields.io/badge/Neriya-Programmer-blue" alt="Ner" > 
@@ -10,6 +10,11 @@
    Idan Fadlon | <img src="https://img.shields.io/badge/Idan-Programmer-green" alt="Idan" >
    Avital Mahgerefte | <img src="https://img.shields.io/badge/Avital-Programmer-blue" alt="Avital" >
    Sergey Pechyoni | <img src="https://img.shields.io/badge/Sergey-Programmer-green" alt="Sergey" >
+   
+  <h3> Group members </h3>
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/team.png" align="center"
+     alt="logo" width="600" height="400">
+  
  
 
      
