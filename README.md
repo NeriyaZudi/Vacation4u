@@ -47,6 +47,7 @@
    * **Procedural programming**
    * **Reading and writing files**
   
+  
   <h3> Some Pictures... </h3>
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/home%20page.png" align="left"
      alt="home" width="200" height="200">
