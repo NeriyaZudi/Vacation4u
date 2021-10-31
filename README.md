@@ -4,15 +4,11 @@
      alt="logo" width="600" height="400">
      
  By: Neriya Zudi | <img src="https://img.shields.io/badge/Neriya-Programmer-blue" alt="Ner" > 
- 
  & Elie Bracha | <img src="https://img.shields.io/badge/Elie-Programmer-green" alt="Elie" > 
- 
  & Lihi Sabag | <img src="https://img.shields.io/badge/Lihi-Programmer-blue" alt="Lihi" >
  
  &  Idan Fadlon | <img src="https://img.shields.io/badge/Idan-Programmer-green" alt="Idan" >
- 
  & Avital Mahgerefte | <img src="https://img.shields.io/badge/Avital-Programmer-blue" alt="Avital" >
- 
  & Sergey Pechyoni | <img src="https://img.shields.io/badge/Sergey-Programmer-green" alt="Sergey" >
  
 
