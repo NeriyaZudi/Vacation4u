@@ -52,7 +52,7 @@
      alt="home" width="200" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/packeges.png" align="center"
      alt="pack" width="200" height="200">
-  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/log%20in.png" align="right"
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/log%20in.png" 
      alt="log" width="200" height="200">
 
  <img src="https://previews.123rf.com/images/get4net/get4net1711/get4net171100357/89002118-video-clip-icon.jpg" align="left"
