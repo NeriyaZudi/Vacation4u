@@ -29,8 +29,8 @@
    You can connect to the system in the following options:
    <hr>
     
-   * **Manager (Agent Management, Statistics Tracking, Profits)**
-   * **Agent (adding and removing packages, updating information, responding to customers)**
+   * **Manager (Agent Management, Statistics Tracking, Profits) ManagerID 123456789  ManagerCompanyCode "v4u"**
+   * **Agent (adding and removing packages, updating information, responding to customers) CompanyCode "vacation4u"**
    * **Customer (search and purchase packages, contact an agent, track orders)**
    
    The system works with existing databases (txt files)
