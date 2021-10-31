@@ -50,25 +50,25 @@
   
   <h3> Some Pictures... </h3>
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/home%20page.png" align="left"
-     alt="home" width="200" height="200">
+     alt="home" width="400" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/packeges.png" align="center"
-     alt="pack" width="200" height="200">
+     alt="pack" width="400" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/log%20in.png" align="right"
-     alt="log" width="200" height="200">
+     alt="log" width="400" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/agent.png" align="left"
-     alt="agent" width="200" height="200">
+     alt="agent" width="400" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/customer.png" align="center"
-     alt="customer" width="200" height="200">
+     alt="customer" width="400" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/orders.png" align="right"
-     alt="orders" width="200" height="200">
-  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/message.png" align="center"
-     alt="message" width="200" height="200">
+     alt="orders" width="400" height="200">
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/message.png" align="left"
+     alt="message" width="400" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/details.png" align="center"
-     alt="details" width="200" height="200">
-  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/agent%20db.png" align="center"
-     alt="db" width="200" height="200">
+     alt="details" width="400" height="200">
+  <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/agent%20db.png" align="right"
+     alt="db" width="400" height="200">
   <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/statistics.png" align="center"
-     alt="stats" width="200" height="200">
+     alt="stats" width="400" height="200">
 
  <img src="https://previews.123rf.com/images/get4net/get4net1711/get4net171100357/89002118-video-clip-icon.jpg" align="left"
      alt="video" width="80" height="40">
