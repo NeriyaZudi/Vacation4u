@@ -1,4 +1,4 @@
-# Vacation4u | <img src="https://img.shields.io/badge/Version-1.1-green" alt="Version" > |   <img src="https://img.shields.io/badge/Downloads-20-lightgreen" alt="dowm" >
+# Vacation4u | <img src="https://img.shields.io/badge/Version-1.1-green" alt="Version" > |   <img src="https://img.shields.io/badge/Downloads-22-lightgreen" alt="dowm" >
 
 <img src="https://github.com/NeriyaZudi/Vacation4u/blob/main/ReadMePics/background.jpg" align="center"
      alt="logo" width="600" height="400">
